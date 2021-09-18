@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>spring-boot-sample</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Exemplo de Configuração das camadas de um projeto bem estruturado.</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
